@@ -1,0 +1,5 @@
+Put your converted IR files in this folder: 
+clip-vit-base-patch16_image.xml
+clip-vit-base-patch16_image.bin
+clip-vit-base-patch16_text.xml
+clip-vit-base-patch16_text.bin
